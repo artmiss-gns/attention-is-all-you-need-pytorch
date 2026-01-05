@@ -1,0 +1,7 @@
+torch 
+torchmetrics 
+torchinfo
+matplotlib 
+scikit-learn
+datasets
+spacy
